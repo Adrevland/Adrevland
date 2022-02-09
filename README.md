@@ -5,3 +5,5 @@
 - 💻 Interested in backend C++ and mathematics 
 - 🌱 I’m currently learning OpenGL, Math for 3D and Game Engine Architecture
 - 📫 How to reach me: Adrian.l.drevland@gmail.com
+-
+- 👀 Working on a OpenGL project using Qt widgets (trying to update regularly some progress from hidden repo publicly)
