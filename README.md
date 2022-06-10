@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning OpenGL, Math for 3D and Game Engine Architecture
 - 📫 How to reach me: Adrian.l.drevland@gmail.com
 -
-- 👀 Working on a OpenGL project using Qt widgets
-- 👀 Trying to learn basic python using Tensorflow 
+- 👀 Working on a Game engine and Physics engine
+- 👀 learning python with different Ai/ML libraries like Tensorflow, torch, OpenCV
