@@ -5,6 +5,6 @@
 - 💻 Interested in backend C++ and mathematics 
 - 🌱 learning python with different Ai/ML libraries like Tensorflow, torch, OpenCV
 -
-- 👀 Working on a Game engine and Physics engine
+- 👀 Working on a Multiplatform Vulkan Engine
 -
 - 📫 How to reach me: Adrian.l.drevland@gmail.com
