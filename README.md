@@ -3,7 +3,7 @@
 
 - 📓 Bachelor in Game Technology and Simulation at Inland Norway University of Applied Sciences
 - 💻 Interested in backend C++, Mathematics and Realtime Simulation
-- 👀 Learning DX3D for modern Graphics programming
+- 👀 Learning DX3D for modern graphics programming
 - 
 - 🌱 Fulltime Software Engineer KONGSBERG
 -
